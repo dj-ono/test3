@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 YYYYYY
 aaaa
-=======
-aaaaaaaa
->>>>>>> test1/master
